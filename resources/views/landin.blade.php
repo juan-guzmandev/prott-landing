@@ -21,7 +21,8 @@
         </ul>
         <div class="w-3/4 mx-auto my-6">
             <video class="w-full rounded-xl shadow-md" controls>
-                <source src="{{ asset('videos/targeting.mp4') }}" type="video/mp4">
+                <source src="{{ asset('videos/leads.mp4') }}" type="video/mp4">
+                    
                 Tu navegador no soporta video HTML5.
             </video>
         </div>
